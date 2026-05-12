@@ -1,3 +1,6 @@
+# 1.0.1
+* Gem dependency updates and addressing vulnerabilities by @FlexonyoPizza in https://github.com/inferno-framework/smart-app-launch-test-kit/pull/113 , https://github.com/inferno-framework/smart-app-launch-test-kit/pull/114
+
 # 1.0.0
 * Update inferno_core to 1.0.2
 * FI-3815: Update Test Kit with new RSpec features by @Shaumik-Ashraf in
